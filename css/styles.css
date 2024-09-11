@@ -131,9 +131,19 @@ h1{
     height: 56px;
     border: none; 
     border-radius: 4px; 
-    
-}
 
+}
+.sec2{
+    padding: 120px 0;
+}
+.spdt{
+    display: flex;
+    gap: 24px;
+    margin-right: 24px;
+}
+.spdt:last-child{
+    margin-right: 0;
+}
 .but:hover{
     background-color:#404BBF;
 }
@@ -148,14 +158,40 @@ h1{
     line-height: 1.2;
     letter-spacing: 0.02em;
     color:#2e2f42;
+    margin-bottom: 8px;
 }
 
-.par{
+.onee{
     line-height: 1.5;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
+    flex-basis: calc((100% - 3 * 24px));
+}
+.twoo{
+    line-height: 1.5;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+    flex-basis: calc((100% - 3 * 24px));
+}
+.three{
+    line-height: 1.5;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+    flex-basis: calc((100% - 3 * 24px));
+}
+.fuur{
+    line-height: 1.5;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color:#434455;
+    flex-basis: calc((100% - 3 * 24px));
 }
 
 .set{
