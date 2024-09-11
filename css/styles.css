@@ -3,7 +3,14 @@ body{
     background-color:#FFFFFF;
     color:#434455
 }
+img{
+    display: block;
+}
 
+header{
+
+    border-bottom: 1px solid #e7e9fc;
+}
 .page-title{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
