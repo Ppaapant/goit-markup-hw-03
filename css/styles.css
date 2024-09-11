@@ -35,9 +35,13 @@ img{
     display: flex; 
     gap: 40px;
     margin-right: 40px;
+    padding: 0 15px;
+}
+.first,.last{
+    padding: 24px 0;
 }
 .last{
-    margin-right:0;
+    margin: 0 auto;
 }
 .studio{
     color: #2e2f42;
@@ -70,11 +74,19 @@ h1{
     color:#404bbf;
 }
 
-.address{
+.addresss{
     font-style: normal;
+
 }
 
+.addr{
+    display: flex;
+    gap: 40px;
 
+}
+.addr:last-child{
+    margin-right: 0;
+}
 .number{
     font-size: 16px;
     line-height: 1.5;
