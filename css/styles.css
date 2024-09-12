@@ -12,7 +12,6 @@ img{
 
 }
 .container{
-    display:flex;
     width: 1158px;
     margin: 0 auto;
     padding: 0 15px;
@@ -154,7 +153,9 @@ h1{
 .but:focus{
     background-color:#404BBF;
 }
-
+.cumbro{
+    flex-basis: calc((100% - 72px) / 4);
+}
 .str{
     font-weight: 500;
     font-size: 20px;
