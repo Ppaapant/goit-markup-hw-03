@@ -215,10 +215,11 @@ h1{
     color:#2e2f42;
     text-align: center;
     margin-bottom: 8px;
+}
+.goteam{
     border-radius: 0px 0px 4px 4px;
     flex-basis: calc((100% - 3 * 24px) / 4);
 }
-
 .parag{
     font-size: 16px;
     line-height: 1.5;
