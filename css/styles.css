@@ -153,9 +153,6 @@ h1{
 .but:focus{
     background-color:#404BBF;
 }
-.cumbro{
-    flex-basis: calc((100% - 72px) / 4);
-}
 .str{
     font-weight: 500;
     font-size: 20px;
@@ -171,7 +168,7 @@ h1{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
-    flex-basis: calc((100% - 3 * 24px));
+    flex-basis: calc((100% - 72px) / 4)
 }
 
 .set{
