@@ -320,7 +320,21 @@ h1{
     padding: 32px 16px;
     border: 1px solid #e7e9fc;
     margin-bottom: 8px;
+    border-top: none;
 }
 
 a {text-decoration: none;}
 ul {list-style: none;}
+
+.bakcgr{
+    padding: 100px 0;
+}
+
+.logotwo{
+    display: inline-block;
+    margin-bottom: 16px;
+}
+
+.fotit{
+    max-width: 264px;
+}
