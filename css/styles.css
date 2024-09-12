@@ -115,11 +115,16 @@ h1{
 }
 
 .effective{
+    font-size: 56px;
     line-height: 1.07;
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
     max-width: 496px;
+    align-items: center;
+    justify-content:center;
+    margin-bottom:48px;
+    max-width:496px;
 }
 
 .but{
@@ -133,9 +138,12 @@ h1{
     cursor: pointer;
     display: block;
     min-width: 169px;
-    height: 56px;
-    border: none; 
+    border: 0; 
     border-radius: 4px; 
+    padding: 16px 32px;
+    margin:0 auto;
+
+    
 
 }
 .seccc{
@@ -329,7 +337,8 @@ h1{
 }
 
 a {text-decoration: none;}
-ul {list-style: none;}
+ul {list-style: none;
+    list-style-type: none;}
 
 .bakcgr{
     padding: 100px 0;
