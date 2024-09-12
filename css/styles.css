@@ -11,9 +11,11 @@ img{
     border-bottom: 1px solid #e7e9fc;
 
 }
-.cont{
+.container{
     display:flex;
     width: 1158px;
+    margin: 0 auto;
+    padding: 0 15px;
 }
 .nvvv{
     display: flex;
@@ -53,6 +55,7 @@ h1{
     line-height: 60px;
     letter-spacing: 2%;
 }
+
 
 .first{
     font-weight: 500;
