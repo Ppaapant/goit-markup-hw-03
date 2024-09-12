@@ -172,30 +172,6 @@ h1{
     color:#434455;
     flex-basis: calc((100% - 3 * 24px));
 }
-.twoo{
-    line-height: 1.5;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;
-    flex-basis: calc((100% - 3 * 24px));
-}
-.three{
-    line-height: 1.5;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;
-    flex-basis: calc((100% - 3 * 24px));
-}
-.fuur{
-    line-height: 1.5;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;
-    flex-basis: calc((100% - 3 * 24px));
-}
 
 .set{
     background-color: #F4F4FD;
@@ -249,7 +225,7 @@ h1{
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-align: center;
-    
+
 }
 
 .port{
