@@ -11,6 +11,9 @@ img{
     border-bottom: 1px solid #e7e9fc;
 
 }
+.container header-container{
+    display:flex;
+}
 .container{
     width: 1158px;
     margin: 0 auto;
@@ -153,6 +156,9 @@ h1{
 .but:focus{
     background-color:#404BBF;
 }
+.cumbro{
+    flex-basis: calc((100% - 72px) / 4);
+}
 .str{
     font-weight: 500;
     font-size: 20px;
@@ -168,7 +174,7 @@ h1{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
-    flex-basis: calc((100% - 72px) / 4)
+    flex-basis: calc((100% - 3 * 24px));
 }
 
 .set{
