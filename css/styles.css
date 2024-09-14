@@ -7,7 +7,7 @@ img{
     display: block;
 }
 h1, h2, h3, h4, h5, h6, p{
-
+    margin: 0;
 }
 .headd{
     border-bottom: 1px solid #e7e9fc;
@@ -44,6 +44,8 @@ margin:0;
 .menufiles{
     padding: 24px 0;
     display:block;
+    color:#2E2F42;
+    font-family: "Roboto";
 }
 .menufiles:last-child{
     margin: 0 auto;
